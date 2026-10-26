@@ -1,5 +1,6 @@
 package LSK;
 
-public class Bicycle {
 
+public class Bicycle extends NotEngineAndNotRegistrableDevice {
+  
 }

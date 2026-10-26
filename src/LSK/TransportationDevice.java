@@ -1,5 +1,9 @@
 package LSK;
 
-public class TransportationDevice {
-
+abstract class TransportationDevice {
+	 String name;
+	 double speed;
+	 void matrikulatu() {
+		
+	 }
 }
